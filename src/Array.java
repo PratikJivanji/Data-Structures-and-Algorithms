@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Array {
-
   private Object[] data;
   private int capacity;
   private int length;
